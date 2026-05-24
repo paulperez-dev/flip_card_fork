@@ -2,7 +2,7 @@ name: flip_card_fork
 description: A component that provides flip card animation. It could be used for hide and show details of a product.
 version: 0.8.0
 homepage: https://github.com/BrunoJurkovic/flip_card/
-publish: none
+publish_to: none
 
 environment:
   sdk: ">=3.9.0 <4.0.0"
